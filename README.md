@@ -2,36 +2,31 @@
 
 # Mahamat Nassour Ahmat
 
-**IT Support Specialist at USEReady · CompTIA CySA+ · Building toward Systems Administration**
+**IT Support Specialist at USEReady · CompTIA CySA+ · Working toward Systems Administration**
 
-Jersey City, NJ · [LinkedIn](https://www.linkedin.com/in/chadian/) · [Email](mailto:mhtnsrpro@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/chadian/) · [Email](mailto:mhtnsrpro@gmail.com) · Jersey City, NJ
 
-## About me
+I work in IT support, helping users with Windows and macOS devices, account access, hardware, and connectivity. I have 2 years of experience and a bachelor's degree in Computer Science from Universite de Ndjamena.
 
-I am an IT Support Specialist with **2 years of experience**, a **bachelor's degree in Computer Science**, and a practical approach to keeping users productive. I support endpoints, identity, and everyday connectivity, then document what the next technician needs to know.
+This is where I keep personal support tools, troubleshooting notes, and systems administration exercises. These projects started in November 2026 and are separate from my work at USEReady.
 
-My next step is **Systems Administrator**: deeper Windows administration, identity management, endpoint configuration, and reliable automation.
+## Projects to explore
 
-## What I do
+| Project | What is available |
+| --- | --- |
+| [Support playbook](https://github.com/Mhtnsr/it-support-playbook) | Five runbooks, an endpoint snapshot script, and incident handoff templates |
+| [Network diagnostics](https://github.com/Mhtnsr/network-diagnostics-toolkit) | A single-host Python report for DNS and optional TCP, ping, and route checks |
+| [CSV user plans](https://github.com/Mhtnsr/csv-user-provisioning) | A CSV validator that produces reviewable account plans without changing a directory |
 
-- Troubleshoot Windows/macOS devices, applications, hardware, and remote support issues.
-- Support account access across Active Directory, Microsoft 365/Entra ID, and Google Workspace.
-- Work with Intune, DNS/DHCP/VPN, and service desk workflows.
-- Use PowerShell, Bash, and Python to make repeatable work easier to review.
-- Communicate clearly with users and leave useful incident and escalation notes.
+The scripts have local automated checks. Each repository records what was tested and what still needs a real lab run.
 
-## Selected projects
+## Learning in progress
 
-| Project | What to inspect | Status |
-| --- | --- | --- |
-| [AD lifecycle lab](https://github.com/Mhtnsr/ad-lifecycle-lab) | Plan-first PowerShell, OU scoping, WhatIf | Local plan checks; AD mutation unvalidated |
-| [CSV user provisioning](https://github.com/Mhtnsr/csv-user-provisioning) | Input validation, duplicate detection, JSON plans | Tested plan generator; no live provisioning |
-| [Network diagnostics](https://github.com/Mhtnsr/network-diagnostics-toolkit) | DNS, optional TCP/ping/route, report structure | Mocked checks and localhost smoke test |
-| [Support playbook](https://github.com/Mhtnsr/it-support-playbook) | Runbooks, endpoint snapshot, incident handoffs | Reference library and tested snapshot logic |
-| [Endpoint deployment notes](https://github.com/Mhtnsr/endpoint-deployment-notes) | Windows 11/Intune pilot and recovery design | Planned lab documentation |
-| [Home lab](https://github.com/Mhtnsr/homelab) | Topology, build sequence, restore evidence template | Planned build |
+- [Active Directory account lifecycle](https://github.com/Mhtnsr/ad-lifecycle-lab): a lab-scoped Create/Disable prototype with plan-only and WhatIf modes. Directory changes are covered with mocks, not a live domain test.
+- [Endpoint deployment notes](https://github.com/Mhtnsr/endpoint-deployment-notes): a Windows 11/Intune pilot and recovery plan; not a completed rollout.
+- [Home lab](https://github.com/Mhtnsr/homelab): a proposed Hyper-V design and build sequence. The build and recovery tests are still ahead.
 
-## Technical toolkit
+## Tools I work with
 
 **Operating systems**  
 ![Windows](assets/badges/windows.svg) ![macOS](assets/badges/macos.svg) ![Linux](assets/badges/linux.svg)
@@ -48,37 +43,11 @@ My next step is **Systems Administrator**: deeper Windows administration, identi
 **Tools**  
 ![ServiceNow](assets/badges/servicenow.svg) ![Jira](assets/badges/jira.svg) ![Zendesk](assets/badges/zendesk.svg) ![Git](assets/badges/git.svg)
 
-## Certification & education
+## Certification and education
 
-- **CompTIA CySA+** — earned; verification link to be added when supplied.
-- **Bachelor's degree in Computer Science** — Universite de Ndjamena.
+- CompTIA CySA+
+- Bachelor's degree in Computer Science — Universite de Ndjamena
 
-## GitHub activity
-
-<details>
-<summary>View activity cards</summary>
-
-These third-party cards are supplementary and may be unavailable. Language percentages describe repository code, not proficiency; a streak is not a hiring credential.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mhtnsr&amp;show_icons=true&amp;hide_rank=true&amp;theme=github_dark&amp;hide_border=true" />
-  <img alt="GitHub activity for Mhtnsr" src="https://github-readme-stats.vercel.app/api?username=Mhtnsr&amp;show_icons=true&amp;hide_rank=true&amp;theme=default&amp;hide_border=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mhtnsr&amp;theme=github-dark-blue&amp;hide_border=true" />
-  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=Mhtnsr&amp;theme=default&amp;hide_border=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhtnsr&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" />
-  <img alt="Languages in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhtnsr&amp;layout=compact&amp;theme=default&amp;hide_border=true" />
-</picture>
-
-</details>
-
-## Let's connect
-
-Interested in IT support and junior systems administration opportunities, useful automation, and learning from practical infrastructure work.
+I'm interested in IT support and junior systems administration opportunities. My focus is clear troubleshooting, useful documentation, and automation that I can test and explain.
 
 [LinkedIn](https://www.linkedin.com/in/chadian/) · [mhtnsrpro@gmail.com](mailto:mhtnsrpro@gmail.com)
