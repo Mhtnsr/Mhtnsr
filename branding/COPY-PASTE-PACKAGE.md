@@ -64,19 +64,19 @@ My next step is **Systems Administrator**: deeper Windows administration, identi
 ## Technical toolkit
 
 **Operating systems**  
-![Windows](https://img.shields.io/badge/Windows-16324F?style=flat-square) ![macOS](https://img.shields.io/badge/macOS-30363D?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-64531A?style=flat-square)
+![Windows](assets/badges/windows.svg) ![macOS](assets/badges/macos.svg) ![Linux](assets/badges/linux.svg)
 
 **Cloud & identity**  
-![Active Directory](https://img.shields.io/badge/Active_Directory-16324F?style=flat-square) ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-9C3D10?style=flat-square) ![Entra ID](https://img.shields.io/badge/Entra_ID-35489B?style=flat-square) ![Intune](https://img.shields.io/badge/Intune-16324F?style=flat-square) ![Google Workspace](https://img.shields.io/badge/Google_Workspace-23583F?style=flat-square)
+![Active Directory](assets/badges/active-directory.svg) ![Microsoft 365](assets/badges/microsoft-365.svg) ![Entra ID](assets/badges/entra-id.svg) ![Intune](assets/badges/intune.svg) ![Google Workspace](assets/badges/google-workspace.svg)
 
 **Networking**  
-![DNS](https://img.shields.io/badge/DNS-1C5B60?style=flat-square) ![DHCP](https://img.shields.io/badge/DHCP-1C5B60?style=flat-square) ![VPN](https://img.shields.io/badge/VPN-1C5B60?style=flat-square)
+![DNS](assets/badges/dns.svg) ![DHCP](assets/badges/dhcp.svg) ![VPN](assets/badges/vpn.svg)
 
 **Scripting**  
-![PowerShell](https://img.shields.io/badge/PowerShell-16324F?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-30363D?style=flat-square) ![Python](https://img.shields.io/badge/Python-315677?style=flat-square)
+![PowerShell](assets/badges/powershell.svg) ![Bash](assets/badges/bash.svg) ![Python](assets/badges/python.svg)
 
 **Tools**  
-![ServiceNow](https://img.shields.io/badge/ServiceNow-23583F?style=flat-square) ![Jira](https://img.shields.io/badge/Jira-16324F?style=flat-square) ![Zendesk](https://img.shields.io/badge/Zendesk-23583F?style=flat-square) ![Git](https://img.shields.io/badge/Git-9C3D10?style=flat-square)
+![ServiceNow](assets/badges/servicenow.svg) ![Jira](assets/badges/jira.svg) ![Zendesk](assets/badges/zendesk.svg) ![Git](assets/badges/git.svg)
 
 ## Certification & education
 
