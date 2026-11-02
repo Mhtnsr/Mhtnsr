@@ -1,50 +1,46 @@
-# Hi, I'm Mhtnsr 👋
+![Mhtnsr — IT Support](assets/banner.svg)
 
-### IT Support Specialist
-**Windows & macOS · Active Directory · Networking · Clear Documentation**
+# IT Support Specialist
 
-I help users get back to work through practical troubleshooting, clear communication, and a security-minded approach to support.
+**Windows & macOS · Active Directory · ServiceNow · Endpoint Support**
 
-This GitHub is where I share support runbooks, document my learning, and build a portfolio around reliable IT operations.
+I troubleshoot user devices, support account access, and turn technical problems into clear next steps. My work combines practical diagnosis, patient communication, and useful incident documentation.
 
-## My support focus
+## Featured work
 
-| Area | Focus |
+### [Windows Support Snapshot →](https://github.com/Mhtnsr/it-support-playbook/tree/main/toolkit)
+
+A PowerShell tool for collecting a small endpoint triage report: OS version, memory capacity, fixed-disk free space, and print spooler state.
+
+- Structured JSON with explicit results for unavailable checks
+- No system changes or external requests
+- Hostnames, usernames, network addresses, and disk labels excluded from the report
+- **17 automated assertions** covering capacity calculations, invalid data, privacy filtering, and collection failures
+
+[Read the design and validation notes](https://github.com/Mhtnsr/it-support-playbook/blob/main/toolkit/README.md) · [View the script](https://github.com/Mhtnsr/it-support-playbook/blob/main/toolkit/Get-SupportSnapshot.ps1)
+
+### [Service Desk Troubleshooting Playbook →](https://github.com/Mhtnsr/it-support-playbook)
+
+Five focused runbooks covering connectivity, DNS, account lockouts, printers, and slow Windows devices. Each connects the user's symptom to evidence, a focused resolution, verification, and escalation.
+
+[Browse the runbooks](https://github.com/Mhtnsr/it-support-playbook/tree/main/runbooks) · [Incident handoff template](https://github.com/Mhtnsr/it-support-playbook/blob/main/templates/incident-template.md)
+
+## Technical focus
+
+| Support area | Tools and practice |
 | --- | --- |
-| User support | Desktop, laptop, printer, and mobile device troubleshooting |
-| Operating systems | Windows, Windows Server, and macOS |
-| Identity & access | Active Directory accounts, password resets, and access support |
-| Networking | DNS, DHCP, Wi-Fi, and connectivity troubleshooting |
-| Endpoint management | Device deployment, imaging, software updates, and MDM |
-| Service management | ServiceNow incident documentation and useful handoffs |
+| Endpoints | Windows, macOS, deployment, imaging, updates, hardware troubleshooting |
+| Identity | Active Directory accounts, password resets, access support |
+| Networks | DNS, DHCP, Wi-Fi, remote connectivity |
+| Service delivery | ServiceNow, incident documentation, escalation, user communication |
+| Automation | PowerShell, structured reports, defensive input handling |
 
-## Featured project
+## My troubleshooting process
 
-### [IT Support Troubleshooting Playbook](https://github.com/Mhtnsr/it-support-playbook)
+**Understand the impact → Collect evidence → Isolate the cause → Make a focused change → Verify with the user → Document**
 
-A practical knowledge base for common service desk issues:
-- Network connectivity and DNS diagnosis
-- Account lockout and access troubleshooting
-- Printer support
-- Slow Windows device investigation
-- An incident documentation template
+The repository distinguishes tested code, reference guides, and planned labs. Next up: an isolated Active Directory lab with reproducible account lifecycle exercises and sanitized evidence.
 
-**Current status:** Runbooks and templates are published. Hands-on lab evidence is a future addition; these guides are not presented as completed workplace incidents.
+**Open to IT support, desktop support, and service desk opportunities.**
 
-## How I approach an incident
-
-**Listen → Gather evidence → Isolate the cause → Apply a focused fix → Verify → Document**
-
-I aim to explain technical issues in plain language and leave documentation that helps the next person.
-
-## What I'm building next
-
-- An isolated Windows and Active Directory lab
-- Reproducible troubleshooting case studies with sanitized evidence
-- A documented endpoint diagnostic toolkit
-
-## Opportunities
-
-I'm interested in IT support, desktop support, and service desk opportunities.
-
-[Explore my support playbook](https://github.com/Mhtnsr/it-support-playbook) · [View my repositories](https://github.com/Mhtnsr?tab=repositories)
+[Explore my portfolio](https://github.com/Mhtnsr/it-support-playbook)
