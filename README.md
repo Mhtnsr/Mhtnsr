@@ -1,46 +1,84 @@
-![Mhtnsr — IT Support](assets/banner.svg)
+![Mahamat Nassour Ahmat — IT Support](assets/banner.svg)
 
-# IT Support Specialist
+# Mahamat Nassour Ahmat
 
-**Windows & macOS · Active Directory · ServiceNow · Endpoint Support**
+**IT Support Specialist at USEReady · CompTIA CySA+ · Building toward Systems Administration**
 
-I troubleshoot user devices, support account access, and turn technical problems into clear next steps. My work combines practical diagnosis, patient communication, and useful incident documentation.
+Jersey City, NJ · [LinkedIn](https://www.linkedin.com/in/chadian/) · [Email](mailto:mhtnsrpro@gmail.com)
 
-## Featured work
+## About me
 
-### [Windows Support Snapshot →](https://github.com/Mhtnsr/it-support-playbook/tree/main/toolkit)
+I am an IT Support Specialist with **2 years of experience**, a **bachelor's degree in Computer Science**, and a practical approach to keeping users productive. I support endpoints, identity, and everyday connectivity, then document what the next technician needs to know.
 
-A PowerShell tool for collecting a small endpoint triage report: OS version, memory capacity, fixed-disk free space, and print spooler state.
+My next step is **Systems Administrator**: deeper Windows administration, identity management, endpoint configuration, and reliable automation.
 
-- Structured JSON with explicit results for unavailable checks
-- No system changes or external requests
-- Hostnames, usernames, network addresses, and disk labels excluded from the report
-- **17 automated assertions** covering capacity calculations, invalid data, privacy filtering, and collection failures
+## What I do
 
-[Read the design and validation notes](https://github.com/Mhtnsr/it-support-playbook/blob/main/toolkit/README.md) · [View the script](https://github.com/Mhtnsr/it-support-playbook/blob/main/toolkit/Get-SupportSnapshot.ps1)
+- Troubleshoot Windows/macOS devices, applications, hardware, and remote support issues.
+- Support account access across Active Directory, Microsoft 365/Entra ID, and Google Workspace.
+- Work with Intune, DNS/DHCP/VPN, and service desk workflows.
+- Use PowerShell, Bash, and Python to make repeatable work easier to review.
+- Communicate clearly with users and leave useful incident and escalation notes.
 
-### [Service Desk Troubleshooting Playbook →](https://github.com/Mhtnsr/it-support-playbook)
+## Selected projects
 
-Five focused runbooks covering connectivity, DNS, account lockouts, printers, and slow Windows devices. Each connects the user's symptom to evidence, a focused resolution, verification, and escalation.
+| Project | What to inspect | Status |
+| --- | --- | --- |
+| [AD lifecycle lab](https://github.com/Mhtnsr/ad-lifecycle-lab) | Plan-first PowerShell, OU scoping, WhatIf | Local plan checks; AD mutation unvalidated |
+| [CSV user provisioning](https://github.com/Mhtnsr/csv-user-provisioning) | Input validation, duplicate detection, JSON plans | Tested plan generator; no live provisioning |
+| [Network diagnostics](https://github.com/Mhtnsr/network-diagnostics-toolkit) | DNS, optional TCP/ping/route, report structure | Mocked checks and localhost smoke test |
+| [Support playbook](https://github.com/Mhtnsr/it-support-playbook) | Runbooks, endpoint snapshot, incident handoffs | Reference library and tested snapshot logic |
+| [Endpoint deployment notes](https://github.com/Mhtnsr/endpoint-deployment-notes) | Windows 11/Intune pilot and recovery design | Planned lab documentation |
+| [Home lab](https://github.com/Mhtnsr/homelab) | Topology, build sequence, restore evidence template | Planned build |
 
-[Browse the runbooks](https://github.com/Mhtnsr/it-support-playbook/tree/main/runbooks) · [Incident handoff template](https://github.com/Mhtnsr/it-support-playbook/blob/main/templates/incident-template.md)
+## Technical toolkit
 
-## Technical focus
+**Operating systems**  
+![Windows](https://img.shields.io/badge/Windows-16324F?style=flat-square) ![macOS](https://img.shields.io/badge/macOS-30363D?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-64531A?style=flat-square)
 
-| Support area | Tools and practice |
-| --- | --- |
-| Endpoints | Windows, macOS, deployment, imaging, updates, hardware troubleshooting |
-| Identity | Active Directory accounts, password resets, access support |
-| Networks | DNS, DHCP, Wi-Fi, remote connectivity |
-| Service delivery | ServiceNow, incident documentation, escalation, user communication |
-| Automation | PowerShell, structured reports, defensive input handling |
+**Cloud & identity**  
+![Active Directory](https://img.shields.io/badge/Active_Directory-16324F?style=flat-square) ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-9C3D10?style=flat-square) ![Entra ID](https://img.shields.io/badge/Entra_ID-35489B?style=flat-square) ![Intune](https://img.shields.io/badge/Intune-16324F?style=flat-square) ![Google Workspace](https://img.shields.io/badge/Google_Workspace-23583F?style=flat-square)
 
-## My troubleshooting process
+**Networking**  
+![DNS](https://img.shields.io/badge/DNS-1C5B60?style=flat-square) ![DHCP](https://img.shields.io/badge/DHCP-1C5B60?style=flat-square) ![VPN](https://img.shields.io/badge/VPN-1C5B60?style=flat-square)
 
-**Understand the impact → Collect evidence → Isolate the cause → Make a focused change → Verify with the user → Document**
+**Scripting**  
+![PowerShell](https://img.shields.io/badge/PowerShell-16324F?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-30363D?style=flat-square) ![Python](https://img.shields.io/badge/Python-315677?style=flat-square)
 
-The repository distinguishes tested code, reference guides, and planned labs. Next up: an isolated Active Directory lab with reproducible account lifecycle exercises and sanitized evidence.
+**Tools**  
+![ServiceNow](https://img.shields.io/badge/ServiceNow-23583F?style=flat-square) ![Jira](https://img.shields.io/badge/Jira-16324F?style=flat-square) ![Zendesk](https://img.shields.io/badge/Zendesk-23583F?style=flat-square) ![Git](https://img.shields.io/badge/Git-9C3D10?style=flat-square)
 
-**Open to IT support, desktop support, and service desk opportunities.**
+## Certification & education
 
-[Explore my portfolio](https://github.com/Mhtnsr/it-support-playbook)
+- **CompTIA CySA+** — earned; verification link to be added when supplied.
+- **Bachelor's degree in Computer Science** — Universite de Ndjamena.
+
+## GitHub activity
+
+<details>
+<summary>View activity cards</summary>
+
+These third-party cards are supplementary and may be unavailable. Language percentages describe repository code, not proficiency; a streak is not a hiring credential.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mhtnsr&amp;show_icons=true&amp;hide_rank=true&amp;theme=github_dark&amp;hide_border=true" />
+  <img alt="GitHub activity for Mhtnsr" src="https://github-readme-stats.vercel.app/api?username=Mhtnsr&amp;show_icons=true&amp;hide_rank=true&amp;theme=default&amp;hide_border=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mhtnsr&amp;theme=github-dark-blue&amp;hide_border=true" />
+  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=Mhtnsr&amp;theme=default&amp;hide_border=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhtnsr&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" />
+  <img alt="Languages in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhtnsr&amp;layout=compact&amp;theme=default&amp;hide_border=true" />
+</picture>
+
+</details>
+
+## Let's connect
+
+Interested in IT support and junior systems administration opportunities, useful automation, and learning from practical infrastructure work.
+
+[LinkedIn](https://www.linkedin.com/in/chadian/) · [mhtnsrpro@gmail.com](mailto:mhtnsrpro@gmail.com)
