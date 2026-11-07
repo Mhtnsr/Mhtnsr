@@ -18,7 +18,7 @@ This is where I keep personal support tools, troubleshooting notes, and systems 
 | [Network diagnostics](https://github.com/Mhtnsr/network-diagnostics-toolkit) | A single-host Python report for DNS and optional TCP, ping, and route checks |
 | [CSV user plans](https://github.com/Mhtnsr/csv-user-provisioning) | A CSV validator that produces reviewable account plans without changing a directory |
 
-The scripts have local automated checks. Each repository records what was tested and what still needs a real lab run.
+Four code repositories now run automated checks on GitHub. The [Windows snapshot write-up](https://github.com/Mhtnsr/it-support-playbook/blob/main/evidence/windows-runner-validation.md) includes a successful hosted Windows run and its actual output. Each project records the test scope and remaining personal lab work.
 
 ## Learning in progress
 
